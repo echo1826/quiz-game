@@ -11,3 +11,5 @@ for item in data:
     questions.append(Question(item["text"], item["answer"]))
 
 quiz_game = Quiz(questions)
+while quiz_game.has_question():
+    quiz_game.next_question()
