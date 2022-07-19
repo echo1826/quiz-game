@@ -10,5 +10,5 @@ In order to run this program:
 
 Technologies:
 
-[Python 3](https://www.python.org)
-[json](https://docs.python.org/3/library/json.html)
+- [Python 3](https://www.python.org)
+- [json](https://docs.python.org/3/library/json.html)
